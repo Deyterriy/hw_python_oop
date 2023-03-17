@@ -152,7 +152,7 @@ def read_package(workout_type: str, data: list[int,
         training_type: Training = types_of_training[workout_type](*data)
         return training_type
     else:
-        raise KeyError('Неизвестный тип трентровки')
+        raise KeyError('Неизвестный тип тренировки')
 
 
 def main(training: Training) -> None:
