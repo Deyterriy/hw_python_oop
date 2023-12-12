@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
+
 # Программный модуль фитнес-трекера,
 
 ## Как использовать проект
@@ -49,3 +51,8 @@ pip install -r requirements.txt
 - расчёт средней скорости движения во время тренировки: get_mean_speed();
 - расчёт количества потраченных калорий за тренировку: get_spent_calories();
 - создание объекта сообщения о результатах тренировки: show_training_info().
+
+
+### Автор:  
+_Козлов Кирилл_<br>
+**email**: _d3yterriy@yandex.ru_<br>
