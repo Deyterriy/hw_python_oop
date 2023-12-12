@@ -1,6 +1,6 @@
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
 
-# Программный модуль фитнес-трекера,
+# Программный модуль фитнес-трекера
 
 ## Как использовать проект
  - склонировать репозиторий командой
